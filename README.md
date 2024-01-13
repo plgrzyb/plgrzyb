@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programming, Games and Sports
 - 🌱 I know basic html, JavaScript, css
 - 🌱 I'm learning basic c++, java, sql, python
-- 💞️ I’m looking to collaborate on I'm not a simp
 - 📫 How to reach me on discord PlGRZYB#1711
 - codewars: https://www.codewars.com/users/plgrzyb
 <!---
